@@ -1,0 +1,7 @@
+akka-learn/target/*
+akka-learn/project/target/*
+akka-learn/.idea/*
+akka-learn/.bsp/*
+.log
+
+
